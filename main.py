@@ -1,4 +1,4 @@
-from pygame import * #очень важно!!1
+from pygame import * #очень важно!!
 game = True
 window = display.set_mode((700 , 500))
 class Sprite(sprite.Sprite):
